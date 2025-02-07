@@ -1,0 +1,33 @@
+.main-fbox {
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
+    align-content: center;
+}
+
+.content {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.foot-fbox {
+    color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#feat-photo {
+    width: 614px;
+    height: 819px;
+}
+
+.sec-fbox {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+
+
