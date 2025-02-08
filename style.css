@@ -14,6 +14,7 @@
 }
 
 body {
+    margin: 0;
     background-color: #F0F5F5;
 }
 
@@ -25,7 +26,7 @@ body {
     font-size: 60px;
     color: #151C32;
     height: 200px;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 .feat-container {
@@ -40,11 +41,11 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #151C32;
+    width: 100%;
     height: 360px;
     padding: 25px;
-    border-radius: 50px;
     margin-bottom: 20px;
-    box-shadow: -3px 3px 6px #63819D, -18px 18px #6D97C0;
+    /* box-shadow: 0px 3px 6px #151C32, 0px 18px #6D97C0; */
 }
 
 /* .flex-item1, .flex-item2 {
@@ -138,3 +139,51 @@ body {
     box-shadow: 0px 0px 5px #F0F5F5;
     padding: 25px;
 }
+
+.details-container {
+    margin-top: 50px;
+    margin-bottom: 68px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.flex-container {
+    box-shadow: -3px 3px 6px #151C32, -18px 18px #6D97C0;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #151C32;
+    border-radius: 25px;
+    width: 700px;
+    height: 600px;
+}
+
+.s-header {
+    font-family: Asap, Courier, monospace;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 56pt;
+    color: #F0F5F5;
+}
+
+.text {
+    font-family: LibreFranklin, Verdana, sans-serif;
+    color: #F0F5F5;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.footer-text {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    height: 160px;
+    font-family: LibreFranklin, Verdana, sans-serif;
+    background-color: #151C32;
+    line-height: 0;
+    color: #F0F5F5;
+}
+
