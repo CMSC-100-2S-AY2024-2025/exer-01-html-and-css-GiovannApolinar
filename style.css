@@ -156,7 +156,7 @@ body {
     background-color: #151C32;
     border-radius: 25px;
     width: 700px;
-    height: 600px;
+    height: 400px;
 }
 
 .s-header {
@@ -175,7 +175,7 @@ body {
     padding-right: 50px;
 }
 
-.footer-text {
+.footer-text{
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
@@ -185,5 +185,10 @@ body {
     background-color: #151C32;
     line-height: 0;
     color: #F0F5F5;
+}
+
+#back-to-top {
+    align-self: flex-end;
+    padding-right: 25px;
 }
 
