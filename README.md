@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/khVSkjrs)
+# Description
+
+**Name:** Apolinar, Giovann Josh N. <br/>
+**Degree:** BS Computer Science <br/>
+**Website Link:** https://giovannapolinar.github.io/ <br/>
+
+## Key Takeaways
+
+In designing HTML file, it is helpful to utitilize div tags as well as simple selectors to design multiple lines simultaneously. <br/>
+
+Flex display also helped in arranging the layout of items in the screen, making the text and shapes versatile. <br/>
+
+
+
